@@ -1,0 +1,146 @@
+[
+  {
+    "iconUrl": "",
+    "fileHash": "sha256-770380f19967ed8ea33d6a90d3c881971863502e05bbc48d29ef3b36b4a03085",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/taigametaiwan/phimngan-cs3",
+    "fileSize": 36432,
+    "status": 1,
+    "authors": [],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 7,
+    "internalName": "AllShorts",
+    "description": "Nguồn phim ngắn AllShorts",
+    "url": "https://raw.githubusercontent.com/taigametaiwan/phimngan-cs3/main/addons/AllShorts.cs3",
+    "name": "AllShorts"
+  },
+  {
+    "iconUrl": "",
+    "fileHash": "sha256-e7c832c6fda34731f12e3623ae6a00f3e6f27027f49cee7656eea41ee9ad1863",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/taigametaiwan/phimngan-cs3",
+    "fileSize": 30128,
+    "status": 1,
+    "authors": [],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 31,
+    "internalName": "DramaBox",
+    "description": "Nguồn phim ngắn DramaBox",
+    "url": "https://raw.githubusercontent.com/taigametaiwan/phimngan-cs3/main/addons/DramaBox.cs3",
+    "name": "DramaBox"
+  },
+  {
+    "iconUrl": "",
+    "fileHash": "sha256-e5639e07f04736fe8fd3c07beecdd2ee13d73e0c66426ebe84b56f451246125a",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/taigametaiwan/phimngan-cs3",
+    "fileSize": 23240,
+    "status": 1,
+    "authors": [],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "Gamo",
+    "description": "Nguồn phim ngắn Gamo",
+    "url": "https://raw.githubusercontent.com/taigametaiwan/phimngan-cs3/main/addons/Gamo.cs3",
+    "name": "Gamo"
+  },
+  {
+    "iconUrl": "",
+    "fileHash": "sha256-d6178e1f21ee67fb88b77c917d3ea5ef03ab5d04bf20d635df91d1cb3b0077f4",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/taigametaiwan/phimngan-cs3",
+    "fileSize": 27528,
+    "status": 1,
+    "authors": [],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 2,
+    "internalName": "NetShort",
+    "description": "Nguồn phim ngắn NetShort",
+    "url": "https://raw.githubusercontent.com/taigametaiwan/phimngan-cs3/main/addons/NetShort.cs3",
+    "name": "NetShort"
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/taigametaiwan/phimngan-cs3/main/icons/PhimNgan.png",
+    "fileHash": "sha256-9cab28f0993c62f2fe82b931c933559cd7f7871737fbdbfc3098d3642bd67bb7",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/taigametaiwan/phimngan-cs3",
+    "fileSize": 48530,
+    "status": 1,
+    "authors": [],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 5,
+    "internalName": "PhimNgan",
+    "description": "Nguồn phim ngắn PhimNgan",
+    "url": "https://raw.githubusercontent.com/taigametaiwan/phimngan-cs3/main/addons/PhimNgan.cs3",
+    "name": "PhimNgan"
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/taigametaiwan/phimngan-cs3/main/icons/PhimNganHDC.png",
+    "fileHash": "sha256-03dafd75d20ff358ba0c8be10bbdc17f32f1056d0ced9060c5d98867985c40f9",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/taigametaiwan/phimngan-cs3",
+    "fileSize": 82655,
+    "status": 1,
+    "authors": [],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "PhimNganHDC",
+    "description": "Nguồn phim ngắn Phim Ngắn HDC",
+    "url": "https://raw.githubusercontent.com/taigametaiwan/phimngan-cs3/main/addons/PhimNganHDC.cs3",
+    "name": "Phim Ngắn HDC"
+  },
+  {
+    "iconUrl": "",
+    "fileHash": "sha256-26349f5b946deacf3dcaec6aac437bbe4136403cecf7f9334dd89ad516fe0e84",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/taigametaiwan/phimngan-cs3",
+    "fileSize": 28403,
+    "status": 1,
+    "authors": [],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 2,
+    "internalName": "VietShort",
+    "description": "Nguồn phim ngắn VietShort",
+    "url": "https://raw.githubusercontent.com/taigametaiwan/phimngan-cs3/main/addons/VietShort.cs3",
+    "name": "VietShort"
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/taigametaiwan/phimngan-cs3/main/icons/YiniTV.png",
+    "fileHash": "sha256-a81f9c6bde3397aa27173595d74b7fc10ce436773ec1af0340a468d92121dc7f",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/taigametaiwan/phimngan-cs3",
+    "fileSize": 523647,
+    "status": 1,
+    "authors": [],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 4,
+    "internalName": "YiniTV",
+    "description": "Nguồn phim ngắn YiniTV",
+    "url": "https://raw.githubusercontent.com/taigametaiwan/phimngan-cs3/main/addons/YiniTV.cs3",
+    "name": "YiniTV"
+  }
+]

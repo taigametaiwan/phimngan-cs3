@@ -1,0 +1,8 @@
+{
+  "name": "PhimNgan CS3",
+  "description": "Cổng addon phim ngắn CloudStream",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/taigametaiwan/phimngan-cs3/main/plugins.json"
+  ]
+}
