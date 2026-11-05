@@ -55,6 +55,24 @@
   },
   {
     "iconUrl": "",
+    "fileHash": "sha256-59c81f0fe0fea013c5878d6bdcb89e18558039cae1748283f1dfe6e269275623",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/taigametaiwan/phimngan-cs3",
+    "fileSize": 47537,
+    "status": 1,
+    "authors": [],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 4,
+    "internalName": "LangLangSon",
+    "description": "Nguồn phim ngắn LangLangSon",
+    "url": "https://raw.githubusercontent.com/taigametaiwan/phimngan-cs3/main/addons/LangLangSon.cs3",
+    "name": "LangLangSon"
+  },
+  {
+    "iconUrl": "",
     "fileHash": "sha256-d6178e1f21ee67fb88b77c917d3ea5ef03ab5d04bf20d635df91d1cb3b0077f4",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/taigametaiwan/phimngan-cs3",
