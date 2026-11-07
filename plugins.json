@@ -37,6 +37,24 @@
   },
   {
     "iconUrl": "",
+    "fileHash": "sha256-81c372ed0574efe5b8d50dac826207981467dea88ec26887825bf29c76a36525",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/taigametaiwan/phimngan-cs3",
+    "fileSize": 23245,
+    "status": 1,
+    "authors": [],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 2,
+    "internalName": "Gamo",
+    "description": "Nguồn phim ngắn Gamo",
+    "url": "https://raw.githubusercontent.com/taigametaiwan/phimngan-cs3/main/addons/Gamo.cs3",
+    "name": "Gamo"
+  },
+  {
+    "iconUrl": "",
     "fileHash": "sha256-16f30b37407024149e3e92180912e20b19f23e4933bfb5f6d0b0c442298545f5",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/taigametaiwan/phimngan-cs3",
